@@ -1,0 +1,9 @@
+MODELO 16casa con ventaneria y puertas metalicas,fachaletas en sus muros exteriores
+
+MODELO 17Casa tipo cubo  con rotacion , puerta pricipal en madera,ventaneria   metalica
+
+MODELO 18Casa tipo  L con añadidura de zona social y terraza en la cubierta,chimenea.
+
+MODELO 19Casa en construccion tradiconal con fachada sobrepuesta y dinamismo.
+
+MODELO 20Casa con voladizo en acceso principal, fachada con dilataciones ,ventaneria y puertas en aluminio

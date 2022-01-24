@@ -1,0 +1,10 @@
+MODELO 1Casa con  columnas en ladrillo , puertas y ventaneria en madera,tejado de barro
+
+MODELO 2Casa con  columnas en ladrillo en el acceso principal ,ventaneria y puertas en aluminio
+
+MODELO 3Casa con diseño de ventaneria y puertas exclusivo, estructura en madera
+
+
+MODELO 4Casa diseñada con terreno inclinado ,ventaneria metalica,estructura en madera , tejado de barro.
+
+MODELO 5Casa con recubrimiento de muro , estructura, ventaneria y puertas en madera
